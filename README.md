@@ -9,7 +9,7 @@ Hi, I'm James!
             </ul>
         </div>
         <div style="flex: 1;">
-            <h2>Current Learning:</h2>
+            <h2>Currently learning:</h2>
             <ul>
                 <li>Object Oriented Programming 🖥️</li>
                 <li>Design and Analysis of Algorithm 📊</li>
