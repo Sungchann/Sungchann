@@ -1,4 +1,24 @@
-### Hi there 👋
+Hi, I'm James!
+<div style="display: flex;">
+        <div style="flex: 1;">
+            <h2>Interests:</h2>
+            <ul>
+                <li>Game Development 🎮</li>
+                <li>Mobile Development 📱</li>
+                <li>Computer Vision 👀</li>
+            </ul>
+        </div>
+        <div style="flex: 1;">
+            <h2>Current Learning:</h2>
+            <ul>
+                <li>Object Oriented Programming 🖥️</li>
+                <li>Design and Analysis of Algorithm 📊</li>
+                <li>Game Design in Java ☕</li>
+                <li>Information Management 📚</li>
+            </ul>
+        </div>
+    </div>
+
 
 <!--
 **Sungchann/Sungchann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
