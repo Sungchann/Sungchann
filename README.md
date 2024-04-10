@@ -15,6 +15,7 @@ Hi, I'm James!
                 <li>Design and Analysis of Algorithm 📊</li>
                 <li>Game Design in Java ☕</li>
                 <li>Information Management 📚</li>
+                <li>OpenCV Library using Java👀</li>
             </ul>
         </div>
     </div>
