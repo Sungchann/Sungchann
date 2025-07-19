@@ -18,11 +18,8 @@
   <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sungchann&theme=github" />
   <!-- Productive Time -->
   <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sungchann&theme=github&utcOffset=8" />
-</div>
-
-<!-- Top Languages -->
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sungchann&theme=github" />
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com/?user=Sungchann&theme=default" />
 </div>
 
 ---
@@ -36,10 +33,10 @@
 </p>
 
 ---
-
 <!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sungchann/Sungchann/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sungchann/Sungchann/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Sungchann/Sungchann/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jamesvquijano/jamesvquijano/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
