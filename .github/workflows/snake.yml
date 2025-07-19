@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false
 
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
@@ -19,7 +21,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             output/github-snake.svg
-            output/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
