@@ -1,8 +1,6 @@
 <!-- Centered Intro -->
 <h1 align="center"><strong>Hi, I'm James</strong></h1>
 
----
-
 ### Interested In
 - 🎮 Game Development   🎮 
 - 🧠 Computer Vision  
@@ -41,7 +39,7 @@
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sungchann/Sungchann/output/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sungchann/Sungchann/output/dist/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Sungchann/Sungchann/output/dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sungchann/Sungchann/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sungchann/Sungchann/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Sungchann/Sungchann/output/github-snake.svg" />
 </picture>
