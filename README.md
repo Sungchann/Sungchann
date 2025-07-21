@@ -15,16 +15,16 @@
 
 ### 📊 GitHub Profile
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sungchann&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sungchann&theme=github_dark" />
 </div>
 
 ---
 
 ### 📈 GitHub Stats
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sungchann&theme=github" />
-  <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sungchann&theme=github&utcOffset=8" />
-  <img src="https://streak-stats.demolab.com/?user=Sungchann&theme=default" />
+<div align="center">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sungchann&theme=github_dark" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sungchann&theme=github_dark&utcOffset=8" />
+  <img src="https://streak-stats.demolab.com?user=Sungchann&theme=dark" />
 </div>
 
 ---
@@ -32,7 +32,7 @@
 ### 🏆 Achievements
 <div align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=Sungchann&theme=flat&margin-w=10&no-frame=true" 
+    src="https://github-profile-trophy.vercel.app/?username=Sungchann&theme=darkhub&margin-w=10&no-frame=true" 
     alt="GitHub Trophies"
   />
 </div>
