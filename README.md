@@ -1,8 +1,6 @@
-<p align="center">
-  <span style="font-size: 28px;">
-    <strong>Hi there, I'm James 👋</strong>
-  </span>
-</p>
+<h1 align="center">
+  <strong>Hi there, I'm James 👋</strong>
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/james-quijano">
