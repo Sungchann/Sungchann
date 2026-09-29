@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="center">
   <strong>Hi there, I'm James 👋</strong>
-</h1>
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/james-quijano">
@@ -12,11 +12,6 @@
   <a href="https://www.facebook.com/JamesVillacortaQuijano">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <!--
-  <a href="https://YOUR_PORTFOLIO_SITE.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5500?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  -->
 </p>
 
 <hr />
@@ -28,28 +23,17 @@
   I build web applications and MLOps tools, and I like to overthink :>
 </p>
 
-<h3>Currently Learning</h3>
-
 <p>
-  RAG (Retrieval-Augmented Generation)
-</p>
-
-<h3>Exploring</h3>
-
-<p>
-  Visualizing high-dimensional embeddings using
-  <strong>UMAP</strong> and <strong>t-SNE</strong>.
-</p>
-
-<h3>Ask Me About</h3>
-
-<p>
-  Machine Learning · Traditional ML · RAG · MLOps
+  <strong>Currently Learning:</strong> RAG (Retrieval-Augmented Generation)
+  <br />
+  <strong>Exploring:</strong> Visualizing high-dimensional embeddings using UMAP and t-SNE
+  <br />
+  <strong>Ask Me About:</strong> Machine Learning · Traditional ML · RAG · MLOps
 </p>
 
 <hr />
 
-<h3 align="right">Tech Stack</h3>
+<h3 align="left">Tech Stack</h3>
 
 <h3 align="center">Top Languages</h3>
 
@@ -90,7 +74,7 @@
 
 <hr />
 
-<h3 align="left">GitHub Streak</h3>
+<h3 align="center">GitHub Streak</h3>
 
 <p align="center">
   <img
@@ -100,6 +84,8 @@
 </p>
 
 <hr />
+
+<h3 align="center">Commit Contributions</h3>
 
 <p align="center">
   <picture>
