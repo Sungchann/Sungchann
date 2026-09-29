@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/Sungchann">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&height=60&lines=Hi+there,+I%27m+James+%F0%9F%91%8B;Software+Engineer;Machine+Learning+Engineer;I+build+MLOps+tools"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&height=60&lines=Hi+there,+I%27m+James+%F0%9F%91%8B;Software+Engineer;Machine+Learning+Engineer;"
       alt="Hi there, I'm James"
     />
   </a>
@@ -155,7 +155,7 @@
       <h5>Postman</h5>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bruno" width="48" height="48" alt="Bruno" />
+      <img src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" width="48" height="48" alt="Bruno" />
       <h5>Bruno</h5>
     </td>
     <td align="center">
