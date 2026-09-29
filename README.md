@@ -49,7 +49,7 @@
 
 <hr />
 
-<h2 align="right">Tech Stack</h2>
+<h3 align="right">Tech Stack</h3>
 
 <h3 align="center">Top Languages</h3>
 
@@ -60,7 +60,14 @@
 <h3 align="center">Frontend Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ionic,flutter,react,typescript" alt="Frontend Development" />
+  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"
+    width="48"
+    height="48"
+    alt="Ionic"
+  />
+  <img src="https://skillicons.dev/icons?i=flutter,react,typescript" alt="Flutter, React, TypeScript" />
 </p>
 
 <h3 align="center">Backend Development</h3>
@@ -83,17 +90,14 @@
 
 <hr />
 
-<h2 align="center">GitHub Stats</h2>
+<h3 align="left">GitHub Streak</h3>
 
-<div align="center">
-
-<img
- height="150"
- src="https://streak-stats.demolab.com?user=Sungchann&theme=dark"
- alt="GitHub Streak"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Sungchann&theme=dark"
+    alt="GitHub Streak"
+  />
+</p>
 
 <hr />
 
