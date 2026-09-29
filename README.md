@@ -23,48 +23,29 @@
 
 <h2>About Me</h2>
 
-<h3>Software Engineer / Machine Learning Engineer</h3>
-
 <p>
-  Based in Cebu City, Philippines.
-  I focus on building web applications and I like to overthink :>
-</p>
-
-<h3>What I Like Building</h3>
-
-<p>
-  I enjoy building MLOps tools that make the machine learning process
-  transparent and easy to understand.
-</p>
-
-<p>
-  I like showing everything behind a model — from raw data counts and
-  training data to preprocessing pipelines, parameters, confusion matrices,
-  and final results.
+  Software Engineer / Machine Learning Engineer based in Cebu City.
+  I build web applications and MLOps tools, and I like to overthink :>
 </p>
 
 <h3>Currently Learning</h3>
 
 <p>
-  <strong>RAG (Retrieval-Augmented Generation)</strong>
+  RAG (Retrieval-Augmented Generation)
 </p>
 
-<h3>Current Goal</h3>
+<h3>Exploring</h3>
 
 <p>
-  Reduce high-dimensional vectors into two coordinates
-  <strong>(x, y)</strong> and visualize them using
+  Visualizing high-dimensional embeddings using
   <strong>UMAP</strong> and <strong>t-SNE</strong>.
 </p>
 
 <h3>Ask Me About</h3>
 
-<ul>
-  <li>Machine Learning</li>
-  <li>Traditional Machine Learning Models</li>
-  <li>RAG</li>
-  <li>MLOps</li>
-</ul>
+<p>
+  Machine Learning · Traditional ML · RAG · MLOps
+</p>
 
 <hr />
 
