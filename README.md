@@ -1,6 +1,8 @@
-<h2 align="center">
-  <strong>Hi there, I'm James 👋</strong>
-</h2>
+<p align="center">
+  <span style="font-size: 28px;">
+    <strong>Hi there, I'm James 👋</strong>
+  </span>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/james-quijano">
@@ -13,8 +15,6 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
-
-<hr />
 
 <h2>About Me</h2>
 
