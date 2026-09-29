@@ -89,18 +89,6 @@
 
 <img
  height="150"
- src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sungchann&theme=github_dark"
- alt="GitHub Stats"
-/>
-
-<img
- height="150"
- src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sungchann&theme=github_dark&utcOffset=8"
- alt="Productive Time"
-/>
-
-<img
- height="150"
  src="https://streak-stats.demolab.com?user=Sungchann&theme=dark"
  alt="GitHub Streak"
 />
